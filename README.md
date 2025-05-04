@@ -54,30 +54,25 @@ The **goal of this project** is to create a functional web application where use
 
 ### Figma Design Specifications
 #### Color Styles:
-Primary: #FF5A5F
-
-Secondary: #008489
-
-Background: #FFFFFF
-
-Text: #222222
-
-Secondary Text: #717171
+<ul>
+  <li>Primary: <span style="color:#FF5A5F;">#FF5A5F</span></li>
+  <li>Secondary: <span style="color:#008489;">#008489</span></li>
+  <li>Background: <span style="color:#FFFFFF; background:#222; padding:2px 5px;">#FFFFFF</span></li>
+  <li>Text: <span style="color:#222222;">#222222</span></li>
+  <li>Secondary Text: <span style="color:#717171;">#717171</span></li>
+</ul>
 
 #### Typography:
-Primary Font: Circular, Medium (500), 16px
+| **Element**      | **Font Family** | **Weight** | **Size**     |
+|------------------|------------------|------------|--------------|
+| Primary Text     | Circular         | Medium 500 | 16px         |
+| Headings         | Circular         | Bold 700   | 24px – 32px  |
+| Secondary Text   | Circular         | Book 400   | 14px         |
 
-Headings: Circular, Bold (700), 24px-32px
+> **Importance of Identifying Design Properties of a Mock-Up Design**  
+>  
+> It ensures that the final implementation aligns with the intended user experience and visual aesthetics. Developers gain a comprehensive understanding of the layout, color schemes, typography, and interactive elements. It also ensures consistency across the application, facilitates collaboration between teams, and ultimately speeds up the development process.
 
-Secondary Text: Circular, Book (400), 14px
-
-### Importance of Identifying Design Properties of a Mock-Up Design
-
-- It ensures that the final implementation aligns with the intended user experience and visual aesthetics.
-- Developers gain a comprehensive understanding of the layout, color schemes, typography, and interactive elements. 
-- Ensures consistency across the application.
-- Facilitates collaboration between teams.
-- Speeds Up the Development Process.
 
 ## Project Roles and Responsibilities 
 | **Role**              | **Responsibilities**                                                                |
