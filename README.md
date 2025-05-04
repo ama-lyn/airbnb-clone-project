@@ -51,3 +51,30 @@ The **goal of this project** is to create a functional web application where use
 - **Improves accessibility, ensuring the platform is usable by a diverse audience.** Accessibility features like screen reader support, keyboard navigation, and high-contrast modes ensure that people with disabilities or different needs can use the platform effectively. 
 
 - **Increases conversion rates by streamlining the user journey from browsing to booking.** Simplifying the steps required to complete a booking (e.g., reducing unnecessary clicks, offering clear calls-to-action, and minimizing distractions) helps users move through the process quickly and efficiently.
+
+### Figma Design Specifications
+#### Color Styles:
+Primary: #FF5A5F
+
+Secondary: #008489
+
+Background: #FFFFFF
+
+Text: #222222
+
+Secondary Text: #717171
+
+#### Typography:
+Primary Font: Circular, Medium (500), 16px
+
+Headings: Circular, Bold (700), 24px-32px
+
+Secondary Text: Circular, Book (400), 14px
+
+### Importance of Identifying Design Properties of a Mock-Up Design
+
+- It ensures that the final implementation aligns with the intended user experience and visual aesthetics.
+- Developers gain a comprehensive understanding of the layout, color schemes, typography, and interactive elements. 
+- Ensures consistency across the application.
+- Facilitates collaboration between teams.
+- Speeds Up the Development Process.
